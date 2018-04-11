@@ -3,7 +3,9 @@
 </BR>
 
 
-my personal background cheatsheets for ViperCard, useful for quickly choosing backgrounds without having to always try them all.
+Share of my personal background cheatsheets for ViperCard, useful for quickly choosing backgrounds without having to always try them all. I also included the files in json format, since the cheatsheet was initially created with ViperCard 
+</BR>
+(I just added a bit of photoshop)
 
 </BR>
 
