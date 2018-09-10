@@ -13,8 +13,6 @@ Share of my personal background cheatsheets for ViperCard, useful for quickly ch
 
 ![Alt text](https://i.imgur.com/S8NyJ4p.jpg "ViperCard_Background_CheatSheet")
 
-![Alt text](https://i.imgur.com/gL06Fnk.jpg")
-
 ![Alt text](https://github.com/JonnyBanana/ViperCard_Backgrounds_CheatSheet/blob/master/PNG/ViperCard_Background_CheatSheet3.png "ViperCard_Background_CheatSheet")
 
 All my Cheat Sheet Here:
